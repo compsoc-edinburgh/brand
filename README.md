@@ -1,6 +1,8 @@
-# CompSoc's logo
+# CompSoc's design and logo
 
-Logo files for [CompSoc Edinburgh](http://comp-soc.com).
+Design and logo files for [CompSoc Edinburgh](http://comp-soc.com).
+
+We use the _Fipps_ font. This font can be found on the [author's original website](http://pheist.net/fonts.php?id=51), and on [DaFont](http://www.dafont.com/fipps.font). An _.otf_ of the font is on the CompSoc server.
 
 ## Logos
 ### icon
