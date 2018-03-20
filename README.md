@@ -5,23 +5,30 @@ Design and logo files for [CompSoc Edinburgh](http://comp-soc.com).
 We use the _Fipps_ font. This font can be found on the [author's original website](http://pheist.net/fonts.php?id=51), and on [DaFont](http://www.dafont.com/fipps.font). An _.otf_ of the font is on the CompSoc server.
 
 ## Logos
-### icon
+### profile
 
-![](/compsoc-icon.png)
+Where a square-ish logo fits best.
+
+![](/profile/compsoc-profile.png)
 
 ### horizontal
+
+Where a horizontal logo fits best.
 
 ![](/horizontal/compsoc-horizontal.png)
 
 ### community
 
-used on twitter
+Used on twitter.
 
 ![](/community-profile.png)
 
-### profile
+### icon
 
-![](/profile/compsoc-profile.png)
+This icon is only ever used for `favicon.png`.
+
+![](/compsoc-icon.png)
+
 
 ## Licenses
 
